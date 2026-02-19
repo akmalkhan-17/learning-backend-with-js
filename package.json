@@ -1,0 +1,24 @@
+{
+  "name": "learening-backend",
+  "version": "1.0.0",
+  "description": "i am learning the backend in js from hitesh ",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akmalkhan-17/learning-backend-with-js.git"
+  },
+  "author": "Akmal Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akmalkhan-17/learning-backend-with-js/issues"
+  },
+  "homepage": "https://github.com/akmalkhan-17/learning-backend-with-js#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
