@@ -1,9 +1,7 @@
 import dotenv from "dotenv"
 import connectDB from "./db/index.js"
 
-dotenv.config({
-	path: './env'
-})
+dotenv.config() // removed path as it was not required
 
 connectDB()
 
